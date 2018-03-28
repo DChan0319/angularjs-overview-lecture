@@ -5,5 +5,5 @@ angular.module('nba-game-schedule')
 
       // LOAD THE TEMPLATE URL (PREFERRED TO INLINE TEMPLATE)
     },
-    template: `<div>Hello From App</div>`
+    templateUrl: `src/templates/app.html`
   });
